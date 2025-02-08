@@ -1,0 +1,18 @@
+Êþº¾   A D
+       java/lang/Object <init> ()V   java/util/Scanner	 
+ 
+   
+  java/lang/System in Ljava/io/InputStream;
+      (Ljava/io/InputStream;)V	 
+    out Ljava/io/PrintStream;  )Enter a Number to find fibonacci series: 
+       java/io/PrintStream  println (Ljava/lang/String;)V      ! makeConcatWithConstants (I)Ljava/lang/String;
+ # $  % & '  Demo060 	fibonacci (I)I  
+  * +  print Code LineNumberTable main ([Ljava/lang/String;)V 
+StackMapTable 
+SourceFile Demo060.java BootstrapMethods 5 Fibonacci series up to  terms: 7   9
+ : ;  <   = $java/lang/invoke/StringConcatFactory ˜(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/invoke/CallSite; InnerClasses  @ %java/lang/invoke/MethodHandles$Lookup  B java/lang/invoke/MethodHandles Lookup ! #           ,        *· ±    -        	 . /  ,   †     ?»  Y² 	· L² ¶ =² º   ¶ >¢ ² ¸ "º (  ¶ )„§ÿé±    -   "     
+       "  ) 	 8  > 
+ 0   
+ þ $   ú  	 & '  ,   >     £ ¬d¸ "d¸ "`¬    -       
+      0       1    2 3     8  4 8  6 >   
+  ? A C 
